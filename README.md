@@ -116,6 +116,24 @@
 <img src="https://img.shields.io/badge/E2E Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Performance Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
 
-<hr/>
+<!-- ---
+
+<p align="center">
+  <a href="https://github.com/rbiedrawa?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbiedrawa&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/rbiedrawa?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rbiedrawa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p> -->
+
+---
 
 [![Repos Badge](https://badges.pufler.dev/repos/rbiedrawa)](https://badges.pufler.dev)&nbsp;&nbsp;[![Updated Badge](https://badges.pufler.dev/updated/rbiedrawa/rbiedrawa)](https://badges.pufler.dev)&nbsp;&nbsp;[![Commits Badge](https://badges.pufler.dev/commits/all/rbiedrawa)](https://badges.pufler.dev)&nbsp;&nbsp;[![Years Badge](https://badges.pufler.dev/years/rbiedrawa)](https://badges.pufler.dev)&nbsp;&nbsp;[![Visits Badge](https://badges.pufler.dev/visits/rbiedrawa/rbiedrawa)](https://badges.pufler.dev)
