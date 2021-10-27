@@ -1,4 +1,4 @@
-<h3 style="border-bottom: none !important" align="center">Hi there <img src="https://raw.githubusercontent.com/rbiedrawa/rbiedrawa/main/img/hi.gif" width="35px"> Thank you for stopping by😊 </h3>
+<h3 style="border-bottom: none !important" align="center">Hi there <img src="https://raw.githubusercontent.com/rbiedrawa/rbiedrawa/main/img/hi.gif" width="24px"> Thank you for stopping by😊 </h3>
 
 ---
 <div align="center">
