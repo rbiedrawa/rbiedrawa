@@ -5,11 +5,11 @@
 
 👨‍💻&nbsp;&nbsp;My name is Rafal and this is the place where I open source stuff and break things🤣
 
-💼&nbsp;&nbsp;Software Engineer, Spring Professional, Certified Apache Kafka Developer
+💼&nbsp;&nbsp;Software Engineer, [Spring Professional](http://bcert.me/smrtknau), [Certified Apache Kafka Developer](https://www.credential.net/fce74b9e-cfea-435a-8218-38442fe89dec#gs.e0k8c6)
 
 👀&nbsp;&nbsp;Available for Freelance projects opportunities.
 
-📫&nbsp;&nbsp;You can reach me via Linkedin
+📫&nbsp;&nbsp;You can reach me via [Linkedin](https://www.linkedin.com/in/rafa%C5%82-biedrawa-a357558a/)
 
 </div>
 
