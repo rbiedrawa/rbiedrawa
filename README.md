@@ -17,8 +17,10 @@
 
 <h2>Tech Stack</h2>
 
-**// Backend**
-
+<details>
+  <summary><b>Backend</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=white&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Framework%20-%23F7DF1E.svg?logo=spring&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?logo=node.js&logoColor=white&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
@@ -42,10 +44,14 @@
 <img src="https://img.shields.io/badge/JUnit5%20-%23F7DF1E.svg?logo=junit5&logoColor=white&style=for-the-badge&color=grey" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Mockito%20-%23F7DF1E.svg?logo=junit5&logoColor=white&style=for-the-badge&color=orchid" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cucumber%20-%23F7DF1E.svg?logo=cucumber&logoColor=white&style=for-the-badge&color=forestgreen" />&nbsp;&nbsp;
+    </p>
+</details>
 
 
-**// Frontend**
-
+<details>
+  <summary><b>Frontend</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=white&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
 
@@ -64,34 +70,50 @@
 <img src="https://img.shields.io/badge/Yarn%20-%23F7DF1E.svg?logo=yarn&logoColor=white&style=for-the-badge&color=2C8EBB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?logo=webpack&logoColor=white&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?logo=eslint&logoColor=white&style=for-the-badge&color=8080F2" />&nbsp;&nbsp;
+  </p>
+</details>
 
-
-**// DevOps**
-
+<details>
+  <summary><b>DevOps</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?logo=docker&logoColor=white&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?logo=docker&logoColor=white&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?logo=kubernetes&logoColor=white&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Terraform%20-%23F7DF1E.svg?logo=terraform&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?logo=jenkins&logoColor=white&style=for-the-badge&color=orange" />&nbsp;&nbsp;
+  </p>
+</details>
 
-**// Databases**
 
+<details>
+  <summary><b>Databases</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?logo=redis&logoColor=white&style=for-the-badge&color=802221" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch%20-%23F7DF1E.svg?logo=elasticsearch&logoColor=white&style=for-the-badge&color=darkgreen" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Amazon DynamoDB%20-%23F7DF1E.svg?logo=amazondynamodb&logoColor=white&style=for-the-badge&color=grey" />&nbsp;&nbsp;
+  </p>
+</details>
 
-**// Cloud**
-
+<details>
+  <summary><b>Cloud</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?logo=amazonaws&logoColor=white&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google Cloud Platform%20-%23F7DF1E.svg?logo=googlecloud&logoColor=white&style=for-the-badge&color=blue" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft Azure%20-%23F7DF1E.svg?logo=microsoftazure&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
+  </p>
+</details>
 
-**// Others**
-
+<details>
+  <summary><b>Others</b></summary>
+  <br/>
+  <p align="left"> 
 <img src="https://img.shields.io/badge/Prometheus%20-%23F7DF1E.svg?logo=prometheus&logoColor=white&style=for-the-badge&color=yellow" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Logstash%20-%23F7DF1E.svg?logo=logstash&logoColor=white&style=for-the-badge&color=indigo" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/kibana%20-%23F7DF1E.svg?logo=kibana&logoColor=white&style=for-the-badge&color=grey" />&nbsp;&nbsp;
@@ -115,6 +137,8 @@
 <img src="https://img.shields.io/badge/TDD%20-%23F7DF1E.svg?&style=for-the-badge&color=A4AD19" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/E2E Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Performance Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
+  </p>
+</details>
 
 <!-- ---
 
