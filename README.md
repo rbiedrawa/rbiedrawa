@@ -159,6 +159,4 @@
   </a>
 </p> -->
 
----
 
-[![Repos Badge](https://badges.pufler.dev/repos/rbiedrawa)](https://badges.pufler.dev/repos/rbiedrawa)&nbsp;&nbsp;[![Updated Badge](https://badges.pufler.dev/updated/rbiedrawa/rbiedrawa)](https://badges.pufler.dev/updated/rbiedrawa/rbiedrawa)&nbsp;&nbsp;[![Commits Badge](https://badges.pufler.dev/commits/all/rbiedrawa)](https://badges.pufler.dev/commits/all/rbiedrawa)&nbsp;&nbsp;[![Years Badge](https://badges.pufler.dev/years/rbiedrawa)](https://badges.pufler.dev/years/rbiedrawa)&nbsp;&nbsp;[![Visits Badge](https://badges.pufler.dev/visits/rbiedrawa/rbiedrawa)](https://badges.pufler.dev/visits/rbiedrawa/rbiedrawa)
