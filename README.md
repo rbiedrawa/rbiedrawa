@@ -9,7 +9,7 @@
 
 👀&nbsp;&nbsp;Available for Freelance projects opportunities.
 
-📫&nbsp;&nbsp;You can reach me via [Linkedin](https://www.linkedin.com/in/rafa%C5%82-biedrawa-a357558a/)
+📫&nbsp;&nbsp;You can reach me via [Linkedin](https://www.linkedin.com/in/rbiedrawa/)
 
 </div>
 
