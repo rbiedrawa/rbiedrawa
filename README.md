@@ -59,7 +59,11 @@
 <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?logo=react&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?logo=redux&logoColor=white&style=for-the-badge&color=7857BC" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux Saga%20-%23F7DF1E.svg?logo=reduxsaga&logoColor=white&style=for-the-badge&color=999999" />&nbsp;&nbsp;
+    
 <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?logo=jest&logoColor=white&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp;&nbsp;
+
 
 <img src="https://img.shields.io/badge/HTML5%20-%23F7DF1E.svg?logo=html5&logoColor=white&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%23F7DF1E.svg?logo=css3&logoColor=white&logoColor=white&style=for-the-badge&color=#1572B6" />&nbsp;&nbsp;
