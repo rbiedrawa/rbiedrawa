@@ -17,7 +17,7 @@
 
 <h2>Tech Stack</h2>
 
-<details>
+<details open>
   <summary><b>Backend</b></summary>
   <br/>
   <p align="left"> 
